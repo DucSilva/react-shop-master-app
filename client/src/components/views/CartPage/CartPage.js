@@ -81,7 +81,7 @@ function CartPage(props) {
 
 
     return (
-        <div style={{ width: '85%', margin: '3rem auto' }}>
+        <div style={{ width: '85%', margin: '3rem auto', background: 'url(../../../common/anh.png)' }}>
             <h1>My Cart</h1>
             <div>
 

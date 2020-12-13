@@ -21,6 +21,12 @@ body {
   background-color: #fff;
 }
 
+body h2{
+  color: #fff;
+  font-size: larger;
+  font-weight: bold;
+}
+
 .app {
   flex-direction: column;
   display: flex;
